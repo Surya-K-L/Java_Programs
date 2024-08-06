@@ -2,7 +2,7 @@
 
 // For example:
 
-// Input	Result
+// Input   Result
 // 2       A B
 //         A B 
 
