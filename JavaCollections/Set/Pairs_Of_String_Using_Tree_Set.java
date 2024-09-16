@@ -79,7 +79,7 @@ public class Pairs_Of_String_Using_Tree_Set{
         }
         else
         {
-            
+            continue;
         }
         TS.add(S);
         System.out.println(c);
