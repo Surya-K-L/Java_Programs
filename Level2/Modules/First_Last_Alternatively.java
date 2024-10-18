@@ -28,7 +28,10 @@ public class First_Last_Alternatively{
         int t=n-1;
         for(int i=0;i<n/2;i++)
         {
-            System.out.print(a[i]+" "+a[t--]+" ");
+            System.out.println(a[i]);
+            System.out.println(a[t--]);
+            if(i==(n/2)-1 && n%2==1)
+                System.out.println(a[n/2]);
         }
     }
 }
