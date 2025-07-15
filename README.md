@@ -52,7 +52,7 @@ Contributions are welcome! Just submit a PR.
 
 ## 🧑‍💻 Author
 
-Surya K. (GitHub: `Surya-K-L`)
+Surya K.L (GitHub: `Surya-K-L`)
 
 ---
 
